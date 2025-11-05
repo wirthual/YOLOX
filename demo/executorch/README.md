@@ -1,4 +1,4 @@
-## YOLOX-ONNXRuntime in Python
+## YOLOX-executorch in Python
 
 This doc introduces how to convert your pytorch model into executorch, and how to run an executorch runtime demo to verify your convertion.
 
